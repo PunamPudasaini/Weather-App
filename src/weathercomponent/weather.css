@@ -1,0 +1,31 @@
+.weather{
+    background-color: rgb(28, 37, 88);
+    height: 300px;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    margin-top: 10px;
+   
+    
+}
+
+.title{
+    color: white;
+    font-size: 30px;
+}
+
+.input{
+    height: 28px;
+    margin-top: 10px;
+    border: 2px solid red;
+  border-radius: 5px;
+}
+
+.getweather{
+    border: 2px;
+    border-radius: 8px;
+    height: 20px;
+    background-color: rgb(53, 69, 102);
+    color: white;
+
+}

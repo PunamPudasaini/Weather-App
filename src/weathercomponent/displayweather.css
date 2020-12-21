@@ -1,0 +1,53 @@
+.weatherdetails{
+    background-color:  teal;
+    margin-top: 15px; 
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto;
+    grid-gap: 20px;
+    color: white;
+
+}
+
+.footer{
+    background-color: white;
+    height: 40px;
+}
+
+.maincard{
+    color: white;
+    border-radius: 20px;
+    border: 1px solid wheat;
+    margin-top: 10px;
+    margin-right: 30px;
+    margin-left: 30px;
+    position: relative;
+}
+
+.cardtitle{
+   padding-top: 10px;
+    margin-left: -270px;
+    margin-top: 40px;
+    
+}
+
+.cardsubtitle{
+position: absolute;
+margin-top: 20px;
+margin-left: -180px;
+
+
+}
+
+.weather-icon{
+    height: 100px;
+    
+
+}
+
+
+
+td {
+    border-bottom: 2px dashed wheat;
+  }
+  
